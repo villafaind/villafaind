@@ -20,8 +20,6 @@ Aunque mi experiencia laboral es aún incipiente, estoy emocionado por poner a p
 🤝 Conéctate conmigo:
 Estoy abierto a oportunidades colaborativas, consejos valiosos y a expandir mi red profesional. ¡Hablemos sobre cómo puedo contribuir al éxito de tu equipo!
 
-Actualmente me encuentro certificado como Programador Full Stack por la empresa Egg Cooperation, en el marco de Argentina Programa 4.0
-
 La razón fundamental por la cual estoy ansioso por ser parte de la industria tecnológica es la creencia apasionada en el impacto transformador que la tecnología tiene en nuestra sociedad. 
 La tecnología no solo impulsa la innovación, sino que también desempeña un papel crucial en la mejora de la calidad de vida de las personas y en la resolución de problemas a nivel global.
 Como desarrollador Full Stack, estoy emocionado por la oportunidad de ser un agente de cambio y contribuir al desarrollo de soluciones que aborden desafíos actuales y futuros. La tecnología 
