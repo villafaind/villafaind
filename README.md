@@ -1,3 +1,27 @@
+¡Hola! Soy Diego, un entusiasta del desarrollo web con una sólida formación adquirida en el prestigioso curso de Programación Full Stack de Egg Cooperation, en el marco de Argentina Programa 4.0. Mi viaje comenzó desde cero, sumergiéndome en la programación orientada a objetos en Java y explorando a fondo el desarrollo tanto en frontend como en backend.
+
+🛠️ Tecnologías y habilidades clave:
+Java (backend)
+JavaScript (frontend)
+React
+Spring
+HTML5, CSS3
+MySQL
+
+💡 Lo que he aprendido:
+Durante mi formación, he adquirido un profundo conocimiento en el desarrollo de aplicaciones web, la gestión de bases de datos y la creación de interfaces de usuario atractivas. Mi enfoque práctico se ha nutrido de proyectos desafiantes que abarcan desde la conceptualización hasta la implementación.
+
+📚 Educación continua:
+Actualmente, me embarco en cursos complementarios para ampliar mi conjunto de habilidades y mantenerme al tanto de las últimas tendencias en el mundo del desarrollo Full Stack.
+
+🌐 En búsqueda activa de oportunidades:
+Aunque mi experiencia laboral es aún incipiente, estoy emocionado por poner a prueba mis habilidades en un entorno profesional. Mi dedicación y aprendizaje continuo son la base de mi confianza para afrontar nuevos desafíos.
+
+🤝 Conéctate conmigo:
+Estoy abierto a oportunidades colaborativas, consejos valiosos y a expandir mi red profesional. ¡Hablemos sobre cómo puedo contribuir al éxito de tu equipo!
+
+Actualmente me encuentro certificado como Programador Full Stack por la empresa Egg Cooperation, en el marco de Argentina Programa 4.0
+
 La razón fundamental por la cual estoy ansioso por ser parte de la industria tecnológica es la creencia apasionada en el impacto transformador que la tecnología tiene en nuestra sociedad. 
 La tecnología no solo impulsa la innovación, sino que también desempeña un papel crucial en la mejora de la calidad de vida de las personas y en la resolución de problemas a nivel global.
 Como desarrollador Full Stack, estoy emocionado por la oportunidad de ser un agente de cambio y contribuir al desarrollo de soluciones que aborden desafíos actuales y futuros. La tecnología 
