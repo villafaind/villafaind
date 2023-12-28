@@ -1,11 +1,11 @@
 ¡Hola! Soy Diego, un entusiasta del desarrollo web con una sólida formación adquirida en el prestigioso curso de Programación Full Stack de Egg Cooperation, en el marco de Argentina Programa 4.0. Mi viaje comenzó desde cero, sumergiéndome en la programación orientada a objetos en Java y explorando a fondo el desarrollo tanto en frontend como en backend.
 
 🛠️ Tecnologías y habilidades clave:
-Java (backend)
-JavaScript (frontend)
-React
-Spring
-HTML5, CSS3
+Java (backend) |
+JavaScript (frontend) |
+React |
+Spring |
+HTML5, CSS3 |
 MySQL
 
 💡 Lo que he aprendido:
